@@ -12,17 +12,17 @@
 
 int main(int argc, char **argv) {
 
-  double area, base, height;
+  float area, base, height;
 
   printf("Please enter the base of a triangle: ");
 
-  scanf("%lf", &base);
+  scanf("%f", &base);
 
   printf("Please enter the height of a triangle: ");
 
-  scanf("%lf", &height);
-
-  area = 1/2 * base * height;
+  scanf("%f", &height);
+// i change the formula of area because it is invalid
+  area =(base * height)/2;
 
   printf("The area is %f square units.\n", area);
 
