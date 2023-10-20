@@ -12,14 +12,14 @@ int main()
     printf("Enter dollars you want to convert:");
     scanf("%f",&us_dollar);
 
-    fee = us_dollar * 10/100;
+    fee = us_dollar * 0.1;
     rem_amm = us_dollar - fee;
 
     BDY = rem_amm/2*0.39;
     SPY = rem_amm/2*127.65;
 
     printf("The british pounds will be %f",BDY);
-    printF("The japanese yens is %f",SPY);
+    printf("The japanese yens is %f",SPY);
 
 
 
