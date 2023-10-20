@@ -76,6 +76,7 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
+NO, because of size of int is smaller than that input
 
 
 
@@ -83,11 +84,15 @@ Why or why not?
 
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
+   The Area is 6.00000 square units
 
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
+The area is 7.50000 square units
 
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+
+ I change the formula and chane the format specifier double to float thats correct
