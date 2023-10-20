@@ -37,19 +37,19 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
+  size: 2 bytes
+  range: -32768 to 32768
 * `int`
-  size:
-  range:
+  size: 4 bytes
+  range: -2147483648 to -2147483648
 * `long int`
-  size:
-  range:
+  size: 4 bytes
+  range: -2147483647 to -2147483648
 * `float`
-  size:
+  size: 4 bytes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes
   range: 15 digits of accuracy
 
 
