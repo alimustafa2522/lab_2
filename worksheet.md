@@ -11,15 +11,15 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
-
+Hello, DennisRitchie.  You are 21 years, 6 weeks, and 0 days old today There is showing problem while putting less than 2000 years
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
-
-
+Hello, BjarneStroustrup.  You are 21 years, 42 weeks, and 1 days old today There is showing problem while
+putting less than 2000 years
 
 3. Software testing often involves testing code with known
 "bad" input in an attempt to break it (sometimes this is
