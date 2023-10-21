@@ -28,7 +28,8 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
-
+Hello, ali.  You are 0 years, 0 weeks, and 0 days old today 
+i put my name ali as input and year i put is 1949 and date 304 and month 14 thats why he is showing error in results while program is run
 
 
 4. Complete all the size and range entries below.
